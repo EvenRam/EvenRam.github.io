@@ -1,17 +1,42 @@
-body {
-  background-color: #444444;
-  color: #dddddd;
-    font-family: Arial, Helvetica, sans-serif;
-  margin: 10% 20%;
-  
+h1{
+  text-align: center;
+  Color:#ddddd;
 }
 
-.exp-header {
-  text-align: center;
-  text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
-  
-  
+h1 {border-style:outset;
+border-width: 15px
+padding: 5px;  
 }
+
+summary{ 
+    text-align: center;
+}
+
+body {
+  Font-family: Arial, Helvetica, Sans-serif;
+  margin: 10% 20%;
+   color: #000000;
+    background-image: linear-gradient(to bottom,
+    #a8dadc 22%,
+    #a8dadc 1%,
+    #457b9d 160%,
+    #457b9d 0%
+  );
+  height: 100nh;
+
+}
+.exp-header {
+    text-align: center;
+  Text-transform: uppercase;
+  background-color: rgba (0,0,0,0.1)
+}
+
+.skill-header{
+  Text-transform: uppercase;
+    text-align: center;
+    background-color: rgba (3,4,3,0.1)
+
+}
+
+  
+  
